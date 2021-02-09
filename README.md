@@ -29,7 +29,6 @@ yarn && yarn build
 yarn dev
 # Open app in the browser by visiting localhost:5000
 ```
-Note that the plugin directory and its package name are different, so you need to use the `yarn link` command as shown.
 
 ## LICENSE
 
